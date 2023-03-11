@@ -7,7 +7,7 @@ from xrpl.utils import drops_to_xrp, ripple_time_to_datetime
 
 
 
-telegram_key = "5705279556:AAFG5u-E14ESe3aGkT1CnPDFsjW8XI7Km9o"
+telegram_key = ""
 
 welcome_msg = (
     "👋 Welcome to Telegram XRPL Explorer,\nHow can i help you navigate the XRP Ledger for information?. Use command /mainnet and /testnet to switch between networks"
